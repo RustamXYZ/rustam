@@ -1,0 +1,33 @@
+html{
+    background-color:#C1ECE4
+}
+
+hr{
+background-color:#C1ECE4;
+border-style:none;
+border-top-style: dotted;
+width: 10%;
+border-width: 10px;
+border-color: rgba(146, 13, 223, 0.199);
+
+}
+
+h1{
+   color:#1e8af0 ;
+
+}
+
+h2{
+    color: #1e8af0;
+
+}
+h3{
+    color: #1e8af0;
+
+
+}
+img{
+    background-color: blue;
+    border-radius: 50%;
+    
+}
